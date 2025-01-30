@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title = "Home"}
-  - {file: "research.md", title = "Research"}
-  - {url: "https://www.vumc.org/vmac/home", title = "Vanderbilt"}
+  - {file: "index.html", title = Home}
+  - {file: "research.md", title = Research}
+  - {url: "https://www.vumc.org/vmac/home", title = Vanderbilt}
+  - {file: "research.md", title = Research}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:yyanhust@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/sallymeeyan"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
